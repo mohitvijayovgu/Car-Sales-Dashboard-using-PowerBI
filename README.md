@@ -194,8 +194,6 @@ customers ──────────────► payments
 ## File Format
 - **Format**: CSV (Comma-Separated Values)
 - **Encoding**: UTF-8
-- **Delimiter**: Comma (,)
-- **Quote Character**: Double quotes (") used when data contains commas
 
 ## Last Updated
 February 2026
